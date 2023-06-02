@@ -9,8 +9,8 @@ CozyNook is an accommodation review website where users can search for accommoda
 - Front-end: HTML, CSS, JavaScript
 - Frameworks/Libraries: React, React Router
 # Installation
-1. Clone the repository: git clone https://github.com/mmarkch/MiniProjectFinal.git
-2. Change into the project directory: cd cozynook
+Clone the repository: git clone https://github.com/mmarkch/MiniProjectFinal.git
+
 # Path For Frontend 
 - / (SignUp)
 - /SignUp
