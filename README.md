@@ -7,7 +7,7 @@ CozyNook is an accommodation review website where users can search for accommoda
 - Review Reading: Users can read reviews and ratings for accommodations.
 # Technologies Used
 - Front-end: HTML, CSS, JavaScript
-- Frameworks/Libraries: React, React Router
+- Frameworks/Libraries: React, React Router, MUI
 # Installation
 Clone the repository: git clone https://github.com/mmarkch/MiniProjectFinal.git
 
