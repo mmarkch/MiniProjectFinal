@@ -12,7 +12,7 @@ CozyNook is an accommodation review website where users can search for accommoda
 Clone the repository: git clone https://github.com/mmarkch/MiniProjectFinal.git
 
 # Path For Frontend 
-- / (SignUp)
+- / (SignIn)
 - /SignUp
 - /Home
 - /Profile
